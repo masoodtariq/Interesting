@@ -13,4 +13,12 @@ Steps for git and github:
 12-now use git commit -m "commit message" file.extension
 13-In order to upload to the github use git push -u master origin.
 
-Incase you make some changes to the already uploaded file use git status,git commit, and then git push. 
+Incase you make some changes to the already uploaded file use git status,git commit, and then git push.
+video link:
+Product Sourcing Made Easy
+Sourcing Products at Factory Prices. Contact Verified Suppliers & Get Live Quotes.
+txjichuan.en.alibaba.com
+
+7:19 / 21:17
+How to Install and Configure Git and GitHub on Windows
+https://www.youtube.com/watch?v=J_Clau1bYco 
