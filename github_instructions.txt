@@ -1,0 +1,16 @@
+Steps for git and github:
+1-Install git on windows
+2-make a github account and a new repository
+3-create a folder on pc.
+4-open git bash
+5-open the path to the already created folder(use cd ~/Desktop to access the desktop and cd (folder)/ to access a specific folder.
+6-use git config --global user.name"github account name".
+7.use git config user.email"githubemail"
+8-in order to link the gibhub repository to folder created on pc use the link from that repository and use the command git clon (link)
+9-now make your work files into the repositiory created into your pc folder.
+10-After saving the file use git add (file name)
+11-use git status
+12-now use git commit -m "commit message" file.extension
+13-In order to upload to the github use git push -u master origin.
+
+Incase you make some changes to the already uploaded file use git status,git commit, and then git push. 
