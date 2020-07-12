@@ -1,3 +1,4 @@
+How to install and configure git and github
 Steps for git and github:
 1-Install git on windows
 2-make a github account and a new repository
