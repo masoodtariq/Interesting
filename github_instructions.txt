@@ -16,9 +16,6 @@ Steps for git and github:
 
 Incase you make some changes to the already uploaded file use git status,git commit, and then git push.
 video link:
-Product Sourcing Made Easy
-Sourcing Products at Factory Prices. Contact Verified Suppliers & Get Live Quotes.
-txjichuan.en.alibaba.com
 
 7:19 / 21:17
 How to Install and Configure Git and GitHub on Windows
