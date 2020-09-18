@@ -10,7 +10,11 @@ A DHCP dynamically assigns ip address to each device on a LAN network. since the
 node on the network with a broadcast message of 255.255.255.255. The DHCP server knows that is was intended for it so sends an ack message with a broadcast message to the network .The host 
 compuetr knows that it was intended for it so it accpets the offer and then the dhcp server sends an ip addreess with a lease. the dhcp server can automatically assign the same ip to the 
 same  machine if it is  not in use.
-NAT is technology where the public ip address of the devices is hided by the router so the router sends its own default gatways address as an ip address of the device.  
+A technology that allows for the extension of local or private network to the clients that are not physically present on that network. it uses the tunnling protocol. it is usually a secure
+way to access the outside world to hide our ip.  
+A proxy serves as a server between client and the outside world. webproxies usually hold the web pages in their database which are mostly visited but this prox
+NAT is technology where the public ip address of the devices is hided by the router so the router sends its own default gatways address as an ip address of the device. it can be used to 
+block traffic to certain websites.  
 plain old switching network is an old tephone system.USENET was used to share information across computers on a short distance.
 this technology uses modem which stands for Modulating/demodulating. it gets computer digital data, convets it into analogue signal and sends through copper wires of telephone.
 then this data was sent to telephone exchange from where it was sent to the other copmuter. 
