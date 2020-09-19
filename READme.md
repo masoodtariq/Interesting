@@ -41,5 +41,8 @@ In wireless technology we uses 802.11 standars or protocols for wireless communi
 a bridge between wireless and wired connection. The difference between a router and a Wireless AP is that you can only access wireless communication with Wireless AP but with router you
 can even make wired and wireless communication. If we have a lot of routers then we need to configure every router but if we use WAP we just have to configure only one router and connect
 every WAP to it. we can use mesh network to connect routers and WAP becuase in mesh every wap is connect to other wap and we dont need much wires to connect every router with wap.
-In ad-hoc networks every device or node is connected to the other without any gateway or router e.g connecting differnt devices through bluetooth. In WLA
+WPA cant provide IP addresses so you will take IP through router. Two factor authentication is way where more that username or passwords is required.
+In ad-hoc networks every device or node is connected to the other without any gateway or router e.g connecting differnt devices through bluetooth. In WLAN networks devices uses a router
+ or modem to share the data. Wireless security can be done through an flawful encryption method called WEP or wired euivalent privacy. you can also use mac filtering to allow specific
+devices to connect to your router.
 
