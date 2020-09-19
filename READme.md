@@ -43,6 +43,11 @@ can even make wired and wireless communication. If we have a lot of routers then
 every WAP to it. we can use mesh network to connect routers and WAP becuase in mesh every wap is connect to other wap and we dont need much wires to connect every router with wap.
 WPA cant provide IP addresses so you will take IP through router. Two factor authentication is way where more that username or passwords is required.
 In ad-hoc networks every device or node is connected to the other without any gateway or router e.g connecting differnt devices through bluetooth. In WLAN networks devices uses a router
- or modem to share the data. Wireless security can be done through an flawful encryption method called WEP or wired euivalent privacy. you can also use mac filtering to allow specific
+or modem to share the data. Wireless security can be done through an flawful encryption method called WEP or wired euivalent privacy. you can also use mac filtering to allow specific
 devices to connect to your router.
-
+week 6
+Error detection is the ability of a program to detect that something went wrong. Error recovery is the ability of a protocol or program to make an attempt to fix that problem.
+When a network error occurs a device needs a way of communication to the souce so it uses protocol called Internet control message protocol is used but that has a specific frame.
+But this protocol is not understandable by the human so we need a way to read this protocol. We use ping google.com command that basically sends an echo request in the form of 4 packets
+to the server and gets an echo reply. during this an ICMP is created from each side. you can use tracert  to access the rout of a request. At transpot layer you can use Trace-NetConnection
+to check the access at certain port.
