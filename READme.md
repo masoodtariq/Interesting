@@ -58,3 +58,8 @@ dNS Servers.
 Host files are basically the text files that contains the IP addresses and Hostnames. This is basically the default DNS in almost all operating systems. If your browser cannot find the
 IP address for name resolution in the cache or it then looks for Host files. You can even you host files to direct traffic towards youself by a  default Ip address 127.0.0.1.
 If we add 127.0.0.1 and facebook.com then the dns will resolve it to the 127.0.0.1 which is our localhost so it cannot accesss to the Facebook.com.
+Ipv6 stands for internet protocol version6. Just like IPv4 is a 32 bit long number, IPv6 is a  128 bit long number means you can get number of IP addresses in the range of a 39 digit long
+number. After the IPv4 ,IPv5 was just an experimental protocol was just used for connections.it was not widely opted because the connection state was handled betterly by TCP and UDP.So the 
+consensus does doest adopted the term IPv5. Usually the first 64 bits are network ID and the next 64 bits are reserved for host Ids. It consists of 8 groups of hexadecimal numbers. 
+You can make IPv6 address shorted by removing the leading zeros. and the groups with all zeros with a double colon::
+
