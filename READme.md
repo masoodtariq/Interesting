@@ -51,3 +51,10 @@ When a network error occurs a device needs a way of communication to the souce s
 But this protocol is not understandable by the human so we need a way to read this protocol. We use ping google.com command that basically sends an echo request in the form of 4 packets
 to the server and gets an echo reply. during this an ICMP is created from each side. you can use tracert  to access the rout of a request. At transpot layer you can use Trace-NetConnection
 to check the access at certain port.
+You can use nslookup command to ckeck the DNS address of a website.you can also use it in interactive and noniteractive mood. By non interactive mood you just write nslook and an anchor
+bracket appears. Then you can specify the name of website to check its DNS services. you can change you own DNS server to public DNS server by typing server and the IP address of the
+public server. The public DNS IP address of the google is 8.8.8.8 and L3 Communication is 4.2.2.1 through 4.2.2.6.  If the DNS provided by your ISP is not working then you can use public
+dNS Servers. 
+Host files are basically the text files that contains the IP addresses and Hostnames. This is basically the default DNS in almost all operating systems. If your browser cannot find the
+IP address for name resolution in the cache or it then looks for Host files. You can even you host files to direct traffic towards youself by a  default Ip address 127.0.0.1.
+If we add 127.0.0.1 and facebook.com then the dns will resolve it to the 127.0.0.1 which is our localhost so it cannot accesss to the Facebook.com.
