@@ -70,3 +70,5 @@ just like TTL field in IPv4.
 Since the IPv6 concept is new so in order to make it compatible with IPv4 we use an IPv6 address that has 80 zeros and 16 1s in the start is basically an IPv4 mapped address. The remaining 
 32 bits are just like ipv4 datagram.In order to move IPv6 over the IPv6 remnants we use IPv6 tunnling concept. In ipv6 Tunnels we use servers on both ends that converts the IPv6
 datagram into IPv4 and whenit reaches the destination the other IPv6 tuneel servers convert it into IPv6 datagram.
+NAT is a technology that allows gatways within a LAN usually routers to change the source IP of a datagram and rewite its own IP when the the data packet reaches to its connected LAN.it is just like
+the router sent this data packet. Usually it converts the private ip address to public ip address.
