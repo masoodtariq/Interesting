@@ -62,4 +62,8 @@ Ipv6 stands for internet protocol version6. Just like IPv4 is a 32 bit long numb
 number. After the IPv4 ,IPv5 was just an experimental protocol was just used for connections.it was not widely opted because the connection state was handled betterly by TCP and UDP.So the 
 consensus does doest adopted the term IPv5. Usually the first 64 bits are network ID and the next 64 bits are reserved for host Ids. It consists of 8 groups of hexadecimal numbers. 
 You can make IPv6 address shorted by removing the leading zeros. and the groups with all zeros with a double colon::
-
+2001:Odb8 is used for documentation in all types of education including books and courses. FF00:: is used for multicast and FE80:: is used for link-local unicast. 
+In IPV6 header the first thing is Version which basically tells us what version of IP protocol is used whther it is IP v4 or Ipv6. Next is Class field which basically defines what type  of 
+traffic the ID datagram contains and assign different classes different specific priorities. Next is flowlablel filed which is basically used in conjunction which CLass field and helps
+routers to make decision what quality of sevice the specific datagram contains. Next is datapayload length which basically tells the length of datapayload section and the next is hop limit
+just like TTL field in IPv4. 
