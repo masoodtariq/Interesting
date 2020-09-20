@@ -67,3 +67,6 @@ In IPV6 header the first thing is Version which basically tells us what version 
 traffic the ID datagram contains and assign different classes different specific priorities. Next is flowlablel filed which is basically used in conjunction which CLass field and helps
 routers to make decision what quality of sevice the specific datagram contains. Next is datapayload length which basically tells the length of datapayload section and the next is hop limit
 just like TTL field in IPv4. 
+Since the IPv6 concept is new so in order to make it compatible with IPv4 we use an IPv6 address that has 80 zeros and 16 1s in the start is basically an IPv4 mapped address. The remaining 
+32 bits are just like ipv4 datagram.In order to move IPv6 over the IPv6 remnants we use IPv6 tunnling concept. In ipv6 Tunnels we use servers on both ends that converts the IPv6
+datagram into IPv4 and whenit reaches the destination the other IPv6 tuneel servers convert it into IPv6 datagram.
