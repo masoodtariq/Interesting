@@ -72,3 +72,4 @@ Since the IPv6 concept is new so in order to make it compatible with IPv4 we use
 datagram into IPv4 and whenit reaches the destination the other IPv6 tuneel servers convert it into IPv6 datagram.
 NAT is a technology that allows gatways within a LAN usually routers to change the source IP of a datagram and rewite its own IP when the the data packet reaches to its connected LAN.it is just like
 the router sent this data packet. Usually it converts the private ip address to public ip address.
+you can also hide your files and protect them from others.
