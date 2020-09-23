@@ -76,3 +76,4 @@ you can also hide your files and protect them from others.
 cp command is used to copy and rm is used to delete,while ls -a is used to list all files including hidden files. ls -a -l is used to print all the files including security checks and 
 lenght of the files. wild card is used to select the files of similar type and we use -Recurse in power shell to copy and move the whole directory. we can use -Verbose to print different
 lines on CLI for the confirmation of the copying.In linux we use -r to for recursive just after the command.
+Parameters are used in powershell to add extra features to the command and flags are used in linux to  add extra functionalities.parameters use single - and flags uses double dashes --.
