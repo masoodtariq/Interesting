@@ -73,3 +73,6 @@ datagram into IPv4 and whenit reaches the destination the other IPv6 tuneel serv
 NAT is a technology that allows gatways within a LAN usually routers to change the source IP of a datagram and rewite its own IP when the the data packet reaches to its connected LAN.it is just like
 the router sent this data packet. Usually it converts the private ip address to public ip address.
 you can also hide your files and protect them from others.
+cp command is used to copy and rm is used to delete,while ls -a is used to list all files including hidden files. ls -a -l is used to print all the files including security checks and 
+lenght of the files. wild card is used to select the files of similar type and we use -Recurse in power shell to copy and move the whole directory. we can use -Verbose to print different
+lines on CLI for the confirmation of the copying.In linux we use -r to for recursive just after the command.
