@@ -78,3 +78,8 @@ lenght of the files. wild card is used to select the files of similar type and w
 lines on CLI for the confirmation of the copying.In linux we use -r to for recursive just after the command.
 Parameters are used in powershell to add extra features to the command and flags are used in linux to  add extra functionalities.parameters use single - and flags uses double dashes --.
 ls -Force is used to see all files incuding hidden in power shell.
+The field in IT that ensures reliable computer systems in a multiuser environment is call system administration. IT infrastructure includes hardware,software,networks.
+Serveres are machines or softwares that provides services to other machines or services. There are three types of hardware serverves e.g Tower server which are least space efficient and
+used for basic level performance. Rack servers uses horizontal racks and blade servers are most space efficient and uses vertical racks.
+The hardware process includes procumentaion which means buying systems hardware, deployment means installing softwares and creating user accounts, maintainance means adding updating the
+softwares and troubleshooting the issue. and finally retirement means what to after the hardware is no more usable. 
