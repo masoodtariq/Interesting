@@ -83,5 +83,7 @@ Serveres are machines or softwares that provides services to other machines or s
 used for basic level performance. Rack servers uses horizontal racks and blade servers are most space efficient and uses vertical racks.
 The hardware process includes procumentaion which means buying systems hardware, deployment means installing softwares and creating user accounts, maintainance means adding updating the
 softwares and troubleshooting the issue. and finally retirement means what to after the hardware is no more usable. 
-In system administration production is a process where a service is executed and provided to the clients.When a problem occurs we usually do reproduction which means we first perform that
-steps that led to that problem and then try to solve it in a test environment and then add it to the production.
+In infrastructure production is a part where a service is executed and provided to the clients.If you host a website then the servers that allow users to interact with the website are 
+production When a problem occurs we usually do reproduction which means we first perform that steps that led to that problem and then try to solve it in a test environment and then add it 
+to the production.
+ok cool
