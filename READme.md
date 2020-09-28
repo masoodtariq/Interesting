@@ -86,4 +86,6 @@ softwares and troubleshooting the issue. and finally retirement means what to af
 In infrastructure production is a part where a service is executed and provided to the clients.If you host a website then the servers that allow users to interact with the website are 
 production When a problem occurs we usually do reproduction which means we first perform that steps that led to that problem and then try to solve it in a test environment and then add it 
 to the production.
-ok cool
+A program that gives DHCP,TFTP and DNS servicesin the saame package is called DNS masq.PXE stand for pre boot execution environment. From PXE we can boot a device from a connected
+network. When we boot a computer it basically looks for a booting device to load the kernel. using pxe the kernel or os is stored on the network card which connects to the TFTP server
+and installs the OS.This is a best technique when we have to insatll OS on a lot of computers in an organization.
